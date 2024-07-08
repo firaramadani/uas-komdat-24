@@ -1,0 +1,101 @@
+    1  sudo su
+    2  apt update && apt full-upgrade -y
+    3  sudo su
+    4  sudo apt install git
+    5  sudo apt update
+    6  sudo apt upgrade
+    7  sudo apt install neofetch
+    8  sudo apt update
+    9  sudo apt upgrade
+   10  sudo apt install neofetch
+   11  cd
+   12  sudo apt install neofetch
+   13  neofetch
+   14  sudo apt install git
+   15  ls
+   16  mdkir folder1
+   17  sudo apt install
+   18  mdkir folder1
+   19  ls
+   20  mdkir folder1
+   21  mkdir folder1
+   22  ls
+   23  cd folder1/
+   24  nano biodata.txt
+   25  cat biodata.txt
+   26  cd
+   27  git --version
+   28  mkdir latihan-git
+   29  ls
+   30  cd latihan-git
+   31  sudo install gh
+   32  sudo apt install gh
+   33  gh --version
+   34  sudo apt install gdebi-core wget
+   35  wget https://dl.google.com/linux/direct/google-chrome-table_current_amd64.deb
+   36  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   37  sudo gdebi google-chrome-stable_current_amd64.deb
+   38  google chrome
+   39  google-chrome
+   40  sudo apt update
+   41  google-chrome
+   42  sudo apt install gdebi-core wget
+   43  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   44  sudo gdebi google-chrome-stable_current_amd64.deb
+   45  google-chrome
+   46  ls
+   47  latihan-git/
+   48  google-chrome
+   49  gh
+   50  sudo apt install gh
+   51  gh auth login
+   52  gh auth status
+   53  get init
+   54  ls
+   55  git init
+   56  ls
+   57  latihan-git
+   58  google chrome
+   59  google-chrome
+   60  cd latihan-git/
+   61  ls index.html
+   62  code .
+   63  git --version
+   64  gh --version
+   65  gh status
+   66  gh auth login
+   67  code .
+   68  ls
+   69  nano index.htlm
+   70  nano index.html
+   71  code .
+   72  git init
+   73  code .
+   74  cd ..
+   75  mkdir git-latihan
+   76  ls
+   77  cd git-latihan
+   78  cd git-latihan/
+   79  mkdir git-latihan
+   80  ls
+   81  cd git-latihan/
+   82  code .
+   83  ls
+   84  git init
+   85  code .
+   86  git --version
+   87  sudo apt update
+   88  sudo apt install git
+   89  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+   90  nvm --v
+   91  nvm install v14.15.4
+   92  node -v
+   93  clear
+   94  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+   95  ls
+   96  cd uas-komdat-24/
+   97  ls
+   98  code .
+   99  npm install
+  100  npm run start
+  101  history > command-history.txt
